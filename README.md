@@ -1,12 +1,12 @@
 # Learning Python
 
-Welcome to my Python learning journey. This repository documents my progress and practice as I build foundational and advanced Python skills, especially for data science and analytics.
+Welcome to my Python learning journey. This repository documents my progress in learning Python over time, especially for data science and analytics.
 
 ## 📘 Current Notebook
 
 ### [`Python For Data Science 2.ipynb`](./Python%20For%20Data%20Science%202.ipynb)
 
-This notebook includes hands-on Python exercises focused on data science fundamentals. Topics covered may include:
+This notebook includes hands-on Python exercises focused on data science fundamentals. Topics covered include:
 
 - Python basics: variables, loops, functions
 - Data types and structures
